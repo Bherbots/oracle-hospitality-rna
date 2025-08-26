@@ -61,7 +61,7 @@ List of fields:
 | Room – Charged Room Type |
 | Room – Room Number |
 | Revenue - Room Revenue |
-| Revenue – Total Room Revenue |
+| Revenue – Total Revenue |
 
 ## 4. Editing Column Formulas
 
