@@ -28,7 +28,7 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 3. Open the Shared Folder/{OrgCode}/training/YOURNAME folder
 
-4.	Use the Paste option on the Toolbar to paste a copy of the Statistics Matrix in your Bootcamp folder
+4.	Use the Paste option on the Toolbar to paste a copy of the Statistics Matrix in your Training folder
 
 ![alt text](images/paste-analysis-report.png "Paste Statistics Matrix Analysis Report")
 
@@ -88,7 +88,7 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 20. Click the Save icon to save the Data Model
 
-21. Name the Data Model “Stats Matrix” and save under the Shared Folder/{OrgCode}/Bootcamp/YOURNAME folder
+21. Name the Data Model “Stats Matrix” and save under the Shared Folder/{OrgCode}/Training/YOURNAME folder
 
 ![alt text](images/save-new-data-model.png "Save new Data Model in Shared Folders")
 
