@@ -199,6 +199,7 @@ List of fields:
 | Block Code | Is equal to/ is in | Choice list | | |
 | Block Name | Is equal to/ is in | Choice list | | |
 | VIP Code | Is equal to/ is in | Choice list | | |
+| Rate Code | Is equal to/ is in | Choice list | | |
 | Market Code | Is equal to/ is in | Choice list | | |
 | Source Code | Is equal to/ is in | Choice list | | |
 | Room Class | Is equal to/ is in | Choice list | | |
