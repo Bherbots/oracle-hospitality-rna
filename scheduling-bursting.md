@@ -159,7 +159,7 @@ from RESORT
 
 ![alt text](images/save-data-model-bursting.png "Save the Data Model")
 
-11. Select the Catalog option in the top right corner.  You should be brought directly into the latest catalog location, but if not navigate back to Shared Folders/ {Org Code}/Bootcamp/{YOUR NAME} directory
+11. Select the Catalog option in the top right corner.  You should be brought directly into the latest catalog location, but if not navigate back to Shared Folders/ {Org Code}/Training/{YOUR NAME} directory
  
  ![alt text](images/select-catalog-data-model-bursting.png "Go Back to the Catalog")
 
