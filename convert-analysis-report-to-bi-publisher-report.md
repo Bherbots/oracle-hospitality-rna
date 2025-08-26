@@ -26,7 +26,7 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 ![alt text](images/copy-analysis-report.png "Copy Statistics Matrix Analysis Report")
 
-3. Open the Shared Folder/{OrgCode}/Bootcamp/YOURNAME folder
+3. Open the Shared Folder/{OrgCode}/training/YOURNAME folder
 
 4.	Use the Paste option on the Toolbar to paste a copy of the Statistics Matrix in your Bootcamp folder
 
