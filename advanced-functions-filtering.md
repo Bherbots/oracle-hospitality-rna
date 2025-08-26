@@ -76,7 +76,7 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 ![alt text](images/query-for-sql-results.png "Query for SQL Results")
  
-12. Select the Save as Option and choose the Shared Folder/{OrgCode}/Bootcamp/YOURNAME directory and save the analysis as Advanced Filters Dates and Resort
+12. Select the Save as Option and choose the Shared Folder/{OrgCode}/Training/YOURNAME directory and save the analysis as Advanced Filters Dates and Resort
 
 13. Navigate to the catalog and Open the Advanced Filters Dates and Resort analysis and select Open
  
@@ -156,7 +156,7 @@ Getting started with Oracle Hospitality Reporting and Analytics
  
 ![alt text](images/edit-sql-results-order-alphabetically.png "Edit SQL Results to list the 1st alphabetically listed resort") 
 
-16. Select the Save as Option and choose the Shared Folder/{OrgCode}/Bootcamp/YOURNAME directory and save the analysis LISTAGG Function
+16. Select the Save as Option and choose the Shared Folder/{OrgCode}/Training/YOURNAME directory and save the analysis LISTAGG Function
 
 17. Navigate to the catalog and Open the LISTAGG Function analysis and Select Open
  
