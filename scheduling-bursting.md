@@ -103,7 +103,7 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 ![alt text](images/select-catalog-scheduling.png "Access the Catalog")
  
-3.	Access the Shared Folders/ {Org Code}/Bootcamp/{YOUR NAME} directory
+3.	Access the Shared Folders/ {Org Code}/training/{YOUR NAME} directory
 
 ![alt text](images/access-shared-folder-bip.png "Access Shared Folders with Data Model")
 
