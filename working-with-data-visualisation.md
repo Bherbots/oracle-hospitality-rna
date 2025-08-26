@@ -86,6 +86,6 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 ![alt text](images/saving-dv-project.png "Saving Data Visualiser Project")
 
-2. Choose the Shared Folders/”Org Code”/Bootcamp/”YOUR NAME” directory and save the file as Room Nights and Revenue Map
+2. Choose the Shared Folders/”Org Code”/training/”YOUR NAME” directory and save the file as Room Nights and Revenue Map
 
 ![alt text](images/save-workbook.png "Saving Workbook")
