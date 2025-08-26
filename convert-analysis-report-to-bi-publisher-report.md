@@ -100,7 +100,7 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 ![alt text](images/use-data-model-create-report.png "Select Data Model to Create new Report")
 
-24. Click the magnifying glass icon and select the Stats Matrix Data Model you created under the Shared Folder/{OrgCode}/Bootcamp/YOURNAME folder
+24. Click the magnifying glass icon and select the Stats Matrix Data Model you created under the Shared Folder/{OrgCode}/training/YOURNAME folder
 
 ![alt text](images/save-new-dm-report-into-shared-folder.png "Save new Data Model Report in Shared Folder")
 
