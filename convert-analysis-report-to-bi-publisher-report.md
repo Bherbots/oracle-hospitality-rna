@@ -70,7 +70,7 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 ![alt text](images/select-name-data-model.png "Define name to save the Data Model")
 
-15. Click the magnifying glass icon and select the Statistics Matrix copy you created under the Shared Folder/{OrgCode}/Bootcamp/YOURNAME folder
+15. Click the magnifying glass icon and select the Statistics Matrix copy you created under the Shared Folder/{OrgCode}/Training/YOURNAME folder
 
 16. Set the Time Out value to 90 and click OK
 
