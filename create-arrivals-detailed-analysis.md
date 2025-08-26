@@ -240,7 +240,7 @@ List of fields:
 
 1. Select the Save as icon
 
-2. Save the analysis into the below directory as Reservation Details
+2. Save the analysis into the below directory as Arrivals Detailed
 
 ||
 |---------|
