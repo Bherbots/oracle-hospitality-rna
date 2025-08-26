@@ -132,7 +132,7 @@ List of fields:
 * Select on Custom Heading and change column heading to Comments and Select OK
 * New Formula should look like the below: 
 
-```CASE WHEN "Reservation Notes"."Notification Area" in ('CHECK IN','RESERVATION') THEN LISTAGG("Reservation Notes"."Comment") ELSE NULL```
+```CASE WHEN "Reservation Notes"."Notification Area" in ('CHECK IN','RESERVATION') THEN LISTAGG("Reservation Notes"."Comment") ELSE NULL END```
 
 
 ## 5. Adding Filters to an Analysis
