@@ -66,7 +66,7 @@ List of fields:
 
 ![alt text](images/finish-create-bip-report.png "Finish BIP Report creation")
 
-9.	Save report to the Shared Folders/{Org Code}/Bootcamp/”YOUR NAME” directory as Managers Report
+9.	Save report to the Shared Folders/{Org Code}/Training/”YOUR NAME” directory as Managers Report
 
 ![alt text](images/save-bip-report.png "Save BIP Report in Shared Folder")
 
