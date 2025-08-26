@@ -128,7 +128,7 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 ![alt text](images/view-thumbnails-dm.png "View Thumbnail of Data Modell")
 
-32. Click the Save icon and save the report as “Stats Matrix Report” under the Shared Folder/{OrgCode}/Bootcamp/YOURNAME folder
+32. Click the Save icon and save the report as “Stats Matrix Report” under the Shared Folder/{OrgCode}/training/YOURNAME folder
 
 ![alt text](images/save-stats-report-as-dm-shared-folder.png "View Thumbnail of Data Model")
 
