@@ -244,4 +244,4 @@ List of fields:
 
 ||
 |---------|
-| Shared Folder/{OrgCode}/Bootcamp/YOURNAME |
+| Shared Folder/{OrgCode}/Training/YOURNAME |
