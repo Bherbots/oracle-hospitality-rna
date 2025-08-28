@@ -34,8 +34,8 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 ![alt text](images/select-fields.png "Select Fields to add to table layout")
 
-* Marketing - County Code 
-* Marketing - Guest Details - Country 
+* Individuals - Guest Details - County Code 
+* Individuals - Guest Details - Country 
 * Room Details - Room Nights
 * Guest Details - Stay Adults
 * Guest Details - Stay Children
