@@ -58,7 +58,7 @@ Getting started with Oracle Hospitality Reporting and Analytics
 
 ## 4. Creating a map view with data Visualiser
 
-1. Select the field, Marketing - County Code ,  and add to the presentation canvas
+1. Select the field, Individuals - Guest Details - Country Code ,  and add to the presentation canvas
 
 2. Under auto visualisation drop down, change view to map
 
